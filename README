@@ -4,6 +4,7 @@ The file has been renamed so that upload to vimscripts site won't conflict.
 I left the variable loaded_search_complete the same so that it won't conflict with existing SearchComplete.
 Be aware that both could exist side-by-side since the filename is different.
 
+This version has been uploaded to http://www.vim.org/scripts/script.php?script_id=5438
 
 
 
